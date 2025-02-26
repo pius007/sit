@@ -222,7 +222,7 @@ progressive_web_app:
 proxy_indicators:
   label: ''
   description: ''
-remote_data_prefix: 'https://github.com/pius007/sit'
+remote_data_prefix: 'https://pius007.github.io/Data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -238,7 +238,7 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/open-sdg/open-sdg-data-starter'
+repository_url_data: 'https://github.com/pius007/Data'
 repository_url_site: 'https://github.com/pius007/sit'
 search_index_boost: []
 search_index_extra_fields: []
